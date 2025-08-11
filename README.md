@@ -5,8 +5,7 @@ This repository contains coursework and practical exercises developed during my 
 ## 🎓 Academic Context
 
 - **Programme**: BSc. in Information Technology  
-- **Year**: 1
-- **Semester**: 2
+- **Semester**: 1st Year, 2nd Semester
 - **University**: University of Vavuniya, Sri Lanka  
 - **Created by**: Suleka Dissanayake  
 
